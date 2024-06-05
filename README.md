@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-stack Develope
 -------------------
 
-J'aime Bien le wlange, python, dart et le java; le kotlin je me sens bien avec; la nouvelle plateforme de docker me passionne beaucoup.
+J'aime Bien le wlanguage, python, dart et le java; le kotlin je me sens bien avec; la nouvelle plateforme de docker me passionne beaucoup.
 
 * 🌍  I'm based in Guinée
 * ✉️  You can contact me at [baldemamadoudioulde1993@gmail.com](mailto:baldemamadoudioulde1993@gmail.com)

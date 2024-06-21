@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MAMADOU DJOULDE BALDE
 =============================================================================================================================================
 
-Full-stack Develope
+Full-stack Developer
 -------------------
 
 J'aime Bien le wlanguage, python, dart et le java; le kotlin je me sens bien avec; la nouvelle plateforme de docker me passionne beaucoup.
